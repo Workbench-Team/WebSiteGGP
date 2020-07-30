@@ -4,13 +4,19 @@ body, html {
   
   .bg { 
     /* The image used */
-    background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+    background-image: url("https://krot.info/uploads/posts/2020-01/1579377430_22-55.jpg");
   
     /* Full height */
-    height: 100%; 
+    height: auto; 
   
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+  }
+  #particles-js {
+    position: fixed;
+    height: 100%;
+    width: 100%;
   }
