@@ -20,9 +20,3 @@ body, html {
     height: 100%;
     width: 100%;
   }
-  #ifr {
-      position: absolute;
-      height: 90%;
-      width: 90%; /*абы какое*/
-      background-color: green; /*просто, чтобы размер было видно*/
-  }
